@@ -1,0 +1,780 @@
+{
+"article_tags": [
+	{
+		"id" : 1,
+		"article_id" : 2,
+		"category_id" : 2,
+		"created_at" : "2017-12-26T02:22:08Z",
+		"updated_at" : "2017-12-26T02:22:08Z"
+	},
+	{
+		"id" : 2,
+		"article_id" : 3,
+		"category_id" : 3,
+		"created_at" : "2017-12-26T02:54:18Z",
+		"updated_at" : "2017-12-26T02:54:18Z"
+	},
+	{
+		"id" : 3,
+		"article_id" : 4,
+		"category_id" : 4,
+		"created_at" : "2017-12-30T09:48:20Z",
+		"updated_at" : "2017-12-30T09:48:20Z"
+	},
+	{
+		"id" : 4,
+		"article_id" : 4,
+		"category_id" : 6,
+		"created_at" : "2017-12-30T09:48:20Z",
+		"updated_at" : "2017-12-30T09:48:20Z"
+	},
+	{
+		"id" : 5,
+		"article_id" : 5,
+		"category_id" : 4,
+		"created_at" : "2017-12-30T09:50:50Z",
+		"updated_at" : "2017-12-30T09:50:50Z"
+	},
+	{
+		"id" : 6,
+		"article_id" : 5,
+		"category_id" : 6,
+		"created_at" : "2017-12-30T09:50:50Z",
+		"updated_at" : "2017-12-30T09:50:50Z"
+	},
+	{
+		"id" : 7,
+		"article_id" : 6,
+		"category_id" : 4,
+		"created_at" : "2017-12-30T09:58:36Z",
+		"updated_at" : "2017-12-30T09:58:36Z"
+	},
+	{
+		"id" : 8,
+		"article_id" : 6,
+		"category_id" : 6,
+		"created_at" : "2017-12-30T09:58:36Z",
+		"updated_at" : "2017-12-30T09:58:36Z"
+	},
+	{
+		"id" : 9,
+		"article_id" : 7,
+		"category_id" : 4,
+		"created_at" : "2018-01-03T08:23:56Z",
+		"updated_at" : "2018-01-03T08:23:56Z"
+	},
+	{
+		"id" : 10,
+		"article_id" : 8,
+		"category_id" : 4,
+		"created_at" : "2018-01-03T08:23:56Z",
+		"updated_at" : "2018-01-03T08:23:56Z"
+	},
+	{
+		"id" : 11,
+		"article_id" : 9,
+		"category_id" : 4,
+		"created_at" : "2018-01-03T08:23:56Z",
+		"updated_at" : "2018-01-03T08:23:56Z"
+	},
+	{
+		"id" : 12,
+		"article_id" : 10,
+		"category_id" : 4,
+		"created_at" : "2018-01-03T08:23:56Z",
+		"updated_at" : "2018-01-03T08:23:56Z"
+	},
+	{
+		"id" : 13,
+		"article_id" : 11,
+		"category_id" : 4,
+		"created_at" : "2018-01-03T08:23:56Z",
+		"updated_at" : "2018-01-03T08:23:56Z"
+	},
+	{
+		"id" : 14,
+		"article_id" : 12,
+		"category_id" : 4,
+		"created_at" : "2018-01-03T08:23:56Z",
+		"updated_at" : "2018-01-03T08:23:56Z"
+	},
+	{
+		"id" : 15,
+		"article_id" : 13,
+		"category_id" : 4,
+		"created_at" : "2018-01-03T08:23:56Z",
+		"updated_at" : "2018-01-03T08:23:56Z"
+	},
+	{
+		"id" : 16,
+		"article_id" : 14,
+		"category_id" : 4,
+		"created_at" : "2018-01-03T08:23:56Z",
+		"updated_at" : "2018-01-03T08:23:56Z"
+	},
+	{
+		"id" : 17,
+		"article_id" : 15,
+		"category_id" : 4,
+		"created_at" : "2018-01-03T08:23:56Z",
+		"updated_at" : "2018-01-03T08:23:56Z"
+	},
+	{
+		"id" : 18,
+		"article_id" : 16,
+		"category_id" : 4,
+		"created_at" : "2018-01-03T08:23:56Z",
+		"updated_at" : "2018-01-03T08:23:56Z"
+	},
+	{
+		"id" : 19,
+		"article_id" : 17,
+		"category_id" : 4,
+		"created_at" : "2018-01-03T08:23:56Z",
+		"updated_at" : "2018-01-03T08:23:56Z"
+	},
+	{
+		"id" : 20,
+		"article_id" : 18,
+		"category_id" : 4,
+		"created_at" : "2018-01-03T08:23:56Z",
+		"updated_at" : "2018-01-03T08:23:56Z"
+	},
+	{
+		"id" : 21,
+		"article_id" : 19,
+		"category_id" : 4,
+		"created_at" : "2018-01-03T08:23:56Z",
+		"updated_at" : "2018-01-03T08:23:56Z"
+	},
+	{
+		"id" : 22,
+		"article_id" : 20,
+		"category_id" : 4,
+		"created_at" : "2018-01-03T08:23:56Z",
+		"updated_at" : "2018-01-03T08:23:56Z"
+	},
+	{
+		"id" : 23,
+		"article_id" : 21,
+		"category_id" : 4,
+		"created_at" : "2018-01-03T08:23:56Z",
+		"updated_at" : "2018-01-03T08:23:56Z"
+	},
+	{
+		"id" : 24,
+		"article_id" : 22,
+		"category_id" : 4,
+		"created_at" : "2018-01-03T08:23:56Z",
+		"updated_at" : "2018-01-03T08:23:56Z"
+	},
+	{
+		"id" : 25,
+		"article_id" : 23,
+		"category_id" : 4,
+		"created_at" : "2018-01-03T08:23:56Z",
+		"updated_at" : "2018-01-03T08:23:56Z"
+	},
+	{
+		"id" : 26,
+		"article_id" : 24,
+		"category_id" : 4,
+		"created_at" : "2018-01-03T08:23:56Z",
+		"updated_at" : "2018-01-03T08:23:56Z"
+	},
+	{
+		"id" : 27,
+		"article_id" : 25,
+		"category_id" : 4,
+		"created_at" : "2018-01-03T08:23:56Z",
+		"updated_at" : "2018-01-03T08:23:56Z"
+	},
+	{
+		"id" : 28,
+		"article_id" : 26,
+		"category_id" : 4,
+		"created_at" : "2018-01-03T08:23:56Z",
+		"updated_at" : "2018-01-03T08:23:56Z"
+	},
+	{
+		"id" : 29,
+		"article_id" : 27,
+		"category_id" : 4,
+		"created_at" : "2018-01-03T08:23:56Z",
+		"updated_at" : "2018-01-03T08:23:56Z"
+	},
+	{
+		"id" : 30,
+		"article_id" : 28,
+		"category_id" : 4,
+		"created_at" : "2018-01-03T08:23:56Z",
+		"updated_at" : "2018-01-03T08:23:56Z"
+	},
+	{
+		"id" : 31,
+		"article_id" : 29,
+		"category_id" : 4,
+		"created_at" : "2018-01-03T08:23:56Z",
+		"updated_at" : "2018-01-03T08:23:56Z"
+	},
+	{
+		"id" : 32,
+		"article_id" : 30,
+		"category_id" : 4,
+		"created_at" : "2018-01-03T08:24:42Z",
+		"updated_at" : "2018-01-03T08:24:42Z"
+	},
+	{
+		"id" : 33,
+		"article_id" : 21,
+		"category_id" : 3,
+		"created_at" : "2018-01-03T08:27:15Z",
+		"updated_at" : "2018-01-03T08:27:15Z"
+	},
+	{
+		"id" : 34,
+		"article_id" : 21,
+		"category_id" : 7,
+		"created_at" : "2018-01-03T08:27:15Z",
+		"updated_at" : "2018-01-03T08:27:15Z"
+	},
+	{
+		"id" : 35,
+		"article_id" : 20,
+		"category_id" : 3,
+		"created_at" : "2018-01-03T08:27:35Z",
+		"updated_at" : "2018-01-03T08:27:35Z"
+	},
+	{
+		"id" : 37,
+		"article_id" : 13,
+		"category_id" : 3,
+		"created_at" : "2018-01-03T08:27:47Z",
+		"updated_at" : "2018-01-03T08:27:47Z"
+	},
+	{
+		"id" : 38,
+		"article_id" : 13,
+		"category_id" : 7,
+		"created_at" : "2018-01-03T08:27:47Z",
+		"updated_at" : "2018-01-03T08:27:47Z"
+	},
+	{
+		"id" : 39,
+		"article_id" : 30,
+		"category_id" : 2,
+		"created_at" : "2018-01-03T08:28:16Z",
+		"updated_at" : "2018-01-03T08:28:16Z"
+	},
+	{
+		"id" : 40,
+		"article_id" : 30,
+		"category_id" : 6,
+		"created_at" : "2018-01-03T08:28:16Z",
+		"updated_at" : "2018-01-03T08:28:16Z"
+	},
+	{
+		"id" : 41,
+		"article_id" : 29,
+		"category_id" : 6,
+		"created_at" : "2018-01-03T08:40:21Z",
+		"updated_at" : "2018-01-03T08:40:21Z"
+	},
+	{
+		"id" : 43,
+		"article_id" : 21,
+		"category_id" : 8,
+		"created_at" : "2018-01-03T08:41:49Z",
+		"updated_at" : "2018-01-03T08:41:49Z"
+	},
+	{
+		"id" : 44,
+		"article_id" : 20,
+		"category_id" : 8,
+		"created_at" : "2018-01-03T08:42:15Z",
+		"updated_at" : "2018-01-03T08:42:15Z"
+	},
+	{
+		"id" : 45,
+		"article_id" : 19,
+		"category_id" : 3,
+		"created_at" : "2018-01-03T08:42:34Z",
+		"updated_at" : "2018-01-03T08:42:34Z"
+	},
+	{
+		"id" : 46,
+		"article_id" : 17,
+		"category_id" : 3,
+		"created_at" : "2018-01-03T08:42:47Z",
+		"updated_at" : "2018-01-03T08:42:47Z"
+	},
+	{
+		"id" : 47,
+		"article_id" : 32,
+		"category_id" : 3,
+		"created_at" : "2018-01-06T11:05:37Z",
+		"updated_at" : "2018-01-06T11:05:37Z"
+	},
+	{
+		"id" : 48,
+		"article_id" : 32,
+		"category_id" : 9,
+		"created_at" : "2018-01-06T11:05:37Z",
+		"updated_at" : "2018-01-06T11:05:37Z"
+	},
+	{
+		"id" : 49,
+		"article_id" : 31,
+		"category_id" : 3,
+		"created_at" : "2018-01-06T11:06:00Z",
+		"updated_at" : "2018-01-06T11:06:00Z"
+	},
+	{
+		"id" : 51,
+		"article_id" : 24,
+		"category_id" : 6,
+		"created_at" : "2018-01-06T11:06:35Z",
+		"updated_at" : "2018-01-06T11:06:35Z"
+	},
+	{
+		"id" : 52,
+		"article_id" : 24,
+		"category_id" : 9,
+		"created_at" : "2018-01-06T11:06:35Z",
+		"updated_at" : "2018-01-06T11:06:35Z"
+	},
+	{
+		"id" : 53,
+		"article_id" : 34,
+		"category_id" : 3,
+		"created_at" : "2018-01-16T23:20:13Z",
+		"updated_at" : "2018-01-16T23:20:13Z"
+	},
+	{
+		"id" : 54,
+		"article_id" : 34,
+		"category_id" : 10,
+		"created_at" : "2018-01-16T23:20:13Z",
+		"updated_at" : "2018-01-16T23:20:13Z"
+	},
+	{
+		"id" : 55,
+		"article_id" : 33,
+		"category_id" : 3,
+		"created_at" : "2018-01-16T23:20:41Z",
+		"updated_at" : "2018-01-16T23:20:41Z"
+	},
+	{
+		"id" : 56,
+		"article_id" : 33,
+		"category_id" : 10,
+		"created_at" : "2018-01-16T23:20:41Z",
+		"updated_at" : "2018-01-16T23:20:41Z"
+	},
+	{
+		"id" : 57,
+		"article_id" : 16,
+		"category_id" : 10,
+		"created_at" : "2018-01-17T10:42:19Z",
+		"updated_at" : "2018-01-17T10:42:19Z"
+	},
+	{
+		"id" : 58,
+		"article_id" : 35,
+		"category_id" : 11,
+		"created_at" : "2018-01-23T11:08:55Z",
+		"updated_at" : "2018-01-23T11:08:55Z"
+	},
+	{
+		"id" : 59,
+		"article_id" : 36,
+		"category_id" : 12,
+		"created_at" : "2018-02-02T05:16:05Z",
+		"updated_at" : "2018-02-02T05:16:05Z"
+	},
+	{
+		"id" : 60,
+		"article_id" : 38,
+		"category_id" : 10,
+		"created_at" : "2018-02-08T02:59:36Z",
+		"updated_at" : "2018-02-08T02:59:36Z"
+	},
+	{
+		"id" : 61,
+		"article_id" : 37,
+		"category_id" : 3,
+		"created_at" : "2018-02-08T03:00:02Z",
+		"updated_at" : "2018-02-08T03:00:02Z"
+	},
+	{
+		"id" : 62,
+		"article_id" : 37,
+		"category_id" : 7,
+		"created_at" : "2018-02-08T03:00:02Z",
+		"updated_at" : "2018-02-08T03:00:02Z"
+	},
+	{
+		"id" : 63,
+		"article_id" : 37,
+		"category_id" : 8,
+		"created_at" : "2018-02-08T03:00:02Z",
+		"updated_at" : "2018-02-08T03:00:02Z"
+	},
+	{
+		"id" : 64,
+		"article_id" : 39,
+		"category_id" : 6,
+		"created_at" : "2018-02-08T08:39:56Z",
+		"updated_at" : "2018-02-08T08:39:56Z"
+	},
+	{
+		"id" : 67,
+		"article_id" : 37,
+		"category_id" : 13,
+		"created_at" : "2018-02-08T08:45:04Z",
+		"updated_at" : "2018-02-08T08:45:04Z"
+	},
+	{
+		"id" : 68,
+		"article_id" : 31,
+		"category_id" : 13,
+		"created_at" : "2018-02-08T08:45:15Z",
+		"updated_at" : "2018-02-08T08:45:15Z"
+	},
+	{
+		"id" : 69,
+		"article_id" : 26,
+		"category_id" : 6,
+		"created_at" : "2018-02-08T08:45:49Z",
+		"updated_at" : "2018-02-08T08:45:49Z"
+	},
+	{
+		"id" : 70,
+		"article_id" : 40,
+		"category_id" : 3,
+		"created_at" : "2018-02-25T03:19:47Z",
+		"updated_at" : "2018-02-25T03:19:47Z"
+	},
+	{
+		"id" : 71,
+		"article_id" : 40,
+		"category_id" : 8,
+		"created_at" : "2018-02-25T03:19:47Z",
+		"updated_at" : "2018-02-25T03:19:47Z"
+	},
+	{
+		"id" : 72,
+		"article_id" : 41,
+		"category_id" : 3,
+		"created_at" : "2018-02-25T03:20:13Z",
+		"updated_at" : "2018-02-25T03:20:13Z"
+	},
+	{
+		"id" : 73,
+		"article_id" : 42,
+		"category_id" : 8,
+		"created_at" : "2018-03-12T05:05:00Z",
+		"updated_at" : "2018-03-12T05:05:00Z"
+	},
+	{
+		"id" : 74,
+		"article_id" : 42,
+		"category_id" : 10,
+		"created_at" : "2018-03-12T05:05:00Z",
+		"updated_at" : "2018-03-12T05:05:00Z"
+	},
+	{
+		"id" : 75,
+		"article_id" : 42,
+		"category_id" : 11,
+		"created_at" : "2018-03-12T05:05:00Z",
+		"updated_at" : "2018-03-12T05:05:00Z"
+	},
+	{
+		"id" : 76,
+		"article_id" : 14,
+		"category_id" : 14,
+		"created_at" : "2018-03-12T05:06:16Z",
+		"updated_at" : "2018-03-12T05:06:16Z"
+	},
+	{
+		"id" : 77,
+		"article_id" : 20,
+		"category_id" : 14,
+		"created_at" : "2018-03-12T05:06:36Z",
+		"updated_at" : "2018-03-12T05:06:36Z"
+	},
+	{
+		"id" : 78,
+		"article_id" : 43,
+		"category_id" : 15,
+		"created_at" : "2018-03-17T06:28:21Z",
+		"updated_at" : "2018-03-17T06:28:21Z"
+	},
+	{
+		"id" : 79,
+		"article_id" : 44,
+		"category_id" : 8,
+		"created_at" : "2018-03-30T08:16:41Z",
+		"updated_at" : "2018-03-30T08:16:41Z"
+	},
+	{
+		"id" : 81,
+		"article_id" : 39,
+		"category_id" : 15,
+		"created_at" : "2018-03-30T08:19:02Z",
+		"updated_at" : "2018-03-30T08:19:02Z"
+	},
+	{
+		"id" : 83,
+		"article_id" : 45,
+		"category_id" : 3,
+		"created_at" : "2018-03-31T05:34:38Z",
+		"updated_at" : "2018-03-31T05:34:38Z"
+	},
+	{
+		"id" : 84,
+		"article_id" : 45,
+		"category_id" : 7,
+		"created_at" : "2018-03-31T05:34:38Z",
+		"updated_at" : "2018-03-31T05:34:38Z"
+	},
+	{
+		"id" : 85,
+		"article_id" : 45,
+		"category_id" : 8,
+		"created_at" : "2018-03-31T05:34:38Z",
+		"updated_at" : "2018-03-31T05:34:38Z"
+	},
+	{
+		"id" : 86,
+		"article_id" : 6,
+		"category_id" : 15,
+		"created_at" : "2018-03-31T05:37:02Z",
+		"updated_at" : "2018-03-31T05:37:02Z"
+	},
+	{
+		"id" : 87,
+		"article_id" : 8,
+		"category_id" : 3,
+		"created_at" : "2018-03-31T05:37:49Z",
+		"updated_at" : "2018-03-31T05:37:49Z"
+	},
+	{
+		"id" : 88,
+		"article_id" : 8,
+		"category_id" : 8,
+		"created_at" : "2018-03-31T05:37:49Z",
+		"updated_at" : "2018-03-31T05:37:49Z"
+	},
+	{
+		"id" : 89,
+		"article_id" : 10,
+		"category_id" : 6,
+		"created_at" : "2018-03-31T05:38:29Z",
+		"updated_at" : "2018-03-31T05:38:29Z"
+	},
+	{
+		"id" : 90,
+		"article_id" : 10,
+		"category_id" : 15,
+		"created_at" : "2018-03-31T05:38:29Z",
+		"updated_at" : "2018-03-31T05:38:29Z"
+	},
+	{
+		"id" : 91,
+		"article_id" : 12,
+		"category_id" : 6,
+		"created_at" : "2018-03-31T05:38:46Z",
+		"updated_at" : "2018-03-31T05:38:46Z"
+	},
+	{
+		"id" : 92,
+		"article_id" : 17,
+		"category_id" : 13,
+		"created_at" : "2018-03-31T05:38:57Z",
+		"updated_at" : "2018-03-31T05:38:57Z"
+	},
+	{
+		"id" : 93,
+		"article_id" : 18,
+		"category_id" : 6,
+		"created_at" : "2018-03-31T05:39:07Z",
+		"updated_at" : "2018-03-31T05:39:07Z"
+	},
+	{
+		"id" : 97,
+		"article_id" : 22,
+		"category_id" : 13,
+		"created_at" : "2018-03-31T05:40:19Z",
+		"updated_at" : "2018-03-31T05:40:19Z"
+	},
+	{
+		"id" : 98,
+		"article_id" : 25,
+		"category_id" : 6,
+		"created_at" : "2018-03-31T05:40:50Z",
+		"updated_at" : "2018-03-31T05:40:50Z"
+	},
+	{
+		"id" : 99,
+		"article_id" : 25,
+		"category_id" : 16,
+		"created_at" : "2018-03-31T05:40:50Z",
+		"updated_at" : "2018-03-31T05:40:50Z"
+	},
+	{
+		"id" : 100,
+		"article_id" : 29,
+		"category_id" : 14,
+		"created_at" : "2018-03-31T05:41:32Z",
+		"updated_at" : "2018-03-31T05:41:32Z"
+	},
+	{
+		"id" : 101,
+		"article_id" : 9,
+		"category_id" : 6,
+		"created_at" : "2018-03-31T05:41:52Z",
+		"updated_at" : "2018-03-31T05:41:52Z"
+	},
+	{
+		"id" : 102,
+		"article_id" : 9,
+		"category_id" : 16,
+		"created_at" : "2018-03-31T05:41:52Z",
+		"updated_at" : "2018-03-31T05:41:52Z"
+	},
+	{
+		"id" : 103,
+		"article_id" : 15,
+		"category_id" : 6,
+		"created_at" : "2018-03-31T05:42:05Z",
+		"updated_at" : "2018-03-31T05:42:05Z"
+	},
+	{
+		"id" : 104,
+		"article_id" : 15,
+		"category_id" : 8,
+		"created_at" : "2018-03-31T05:42:05Z",
+		"updated_at" : "2018-03-31T05:42:05Z"
+	},
+	{
+		"id" : 105,
+		"article_id" : 15,
+		"category_id" : 15,
+		"created_at" : "2018-03-31T05:42:16Z",
+		"updated_at" : "2018-03-31T05:42:16Z"
+	},
+	{
+		"id" : 106,
+		"article_id" : 44,
+		"category_id" : 16,
+		"created_at" : "2018-03-31T05:42:43Z",
+		"updated_at" : "2018-03-31T05:42:43Z"
+	},
+	{
+		"id" : 130,
+		"article_id" : 78,
+		"category_id" : 49,
+		"created_at" : "2018-04-29T05:54:39Z",
+		"updated_at" : "2018-04-29T05:54:39Z"
+	},
+	{
+		"id" : 131,
+		"article_id" : 80,
+		"category_id" : 50,
+		"created_at" : "2018-05-04T23:38:06Z",
+		"updated_at" : "2018-05-04T23:38:06Z"
+	},
+	{
+		"id" : 132,
+		"article_id" : 81,
+		"category_id" : 49,
+		"created_at" : "2018-05-07T20:42:15Z",
+		"updated_at" : "2018-05-07T20:42:15Z"
+	},
+	{
+		"id" : 133,
+		"article_id" : 81,
+		"category_id" : 50,
+		"created_at" : "2018-05-07T20:42:15Z",
+		"updated_at" : "2018-05-07T20:42:15Z"
+	},
+	{
+		"id" : 137,
+		"article_id" : 83,
+		"category_id" : 6,
+		"created_at" : "2018-05-16T05:46:54Z",
+		"updated_at" : "2018-05-16T05:46:54Z"
+	},
+	{
+		"id" : 138,
+		"article_id" : 83,
+		"category_id" : 15,
+		"created_at" : "2018-05-16T05:46:54Z",
+		"updated_at" : "2018-05-16T05:46:54Z"
+	},
+	{
+		"id" : 139,
+		"article_id" : 84,
+		"category_id" : 51,
+		"created_at" : "2018-05-16T07:03:02Z",
+		"updated_at" : "2018-05-16T07:03:02Z"
+	},
+	{
+		"id" : 140,
+		"article_id" : 79,
+		"category_id" : 14,
+		"created_at" : "2018-05-16T07:03:46Z",
+		"updated_at" : "2018-05-16T07:03:46Z"
+	},
+	{
+		"id" : 141,
+		"article_id" : 79,
+		"category_id" : 51,
+		"created_at" : "2018-05-16T07:03:46Z",
+		"updated_at" : "2018-05-16T07:03:46Z"
+	},
+	{
+		"id" : 142,
+		"article_id" : 43,
+		"category_id" : 51,
+		"created_at" : "2018-05-16T07:03:54Z",
+		"updated_at" : "2018-05-16T07:03:54Z"
+	},
+	{
+		"id" : 143,
+		"article_id" : 85,
+		"category_id" : 3,
+		"created_at" : "2018-05-20T06:18:50Z",
+		"updated_at" : "2018-05-20T06:18:50Z"
+	},
+	{
+		"id" : 144,
+		"article_id" : 85,
+		"category_id" : 7,
+		"created_at" : "2018-05-20T06:18:50Z",
+		"updated_at" : "2018-05-20T06:18:50Z"
+	},
+	{
+		"id" : 145,
+		"article_id" : 85,
+		"category_id" : 8,
+		"created_at" : "2018-05-20T06:18:50Z",
+		"updated_at" : "2018-05-20T06:18:50Z"
+	},
+	{
+		"id" : 146,
+		"article_id" : 85,
+		"category_id" : 14,
+		"created_at" : "2018-05-20T06:18:50Z",
+		"updated_at" : "2018-05-20T06:18:50Z"
+	},
+	{
+		"id" : 147,
+		"article_id" : 88,
+		"category_id" : 8,
+		"created_at" : "2018-07-01T06:13:26Z",
+		"updated_at" : "2018-07-01T06:13:26Z"
+	}
+]}
