@@ -5,7 +5,7 @@
  * # 23.md => 023.md
  */
 
-const articles = "./articles";
+const articles = "../articles";
 const fs = require("fs");
 
 fs.readdir(articles, (err, files) =>
@@ -14,8 +14,8 @@ fs.readdir(articles, (err, files) =>
     {
         let zero_polyfill = ["","00","0"];
         let file_number = file_name.split(".")[0];
-        let old_file_name = `./articles/${file_name}`;
-        let new_file_name = `./articles/${zero_polyfill[file_number.length]}${file_number}.md`;
+        let old_file_name = `../articles/${file_name}`;
+        let new_file_name = `../articles/${zero_polyfill[file_number.length]}${file_number}.md`;
         fs.rename( old_file_name , new_file_name, (err) =>
         {
             if (err) throw err;

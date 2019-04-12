@@ -1,4 +1,4 @@
-const ary = require("./contents.json");
+const ary = require("../info-files/contents.json");
 const fs = require("fs");
 
 if( Array.isArray(ary) )
@@ -8,11 +8,11 @@ if( Array.isArray(ary) )
         let filename = "";
         if( item.hasOwnProperty("context") )
         {
-            filename = `./articles/${ item.id }.md`;
+            filename = `../articles/${ item.id }.md`;
             fs.writeFile( filename , item.context , (err) =>
             {
                 if (err) throw err;
-                console.log(`Write file: ./articles/${ item.id }.md`);
+                console.log(`Write file: ../articles/${ item.id }.md`);
             });
         }
     });

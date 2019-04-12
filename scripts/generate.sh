@@ -2,10 +2,10 @@
 
 for i in {1..45}
     do
-        echo "" >> ./articles/$i.md
+        echo "" >> ../articles/$i.md
     done
 
 for j in {78..88}
     do
-        echo "" >> ./articles/$j.md
+        echo "" >> ../articles/$j.md
     done
