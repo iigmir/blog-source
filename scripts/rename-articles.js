@@ -1,8 +1,8 @@
 /**
- * # Rename articles. Method is increse dec position
- * # For example:
- * # 1.md => 001.md
- * # 23.md => 023.md
+ * What does this script for:
+ * Rename articles. Method is increse dec position. For example:
+ * 1.md => 001.md
+ * 23.md => 023.md
  */
 
 const articles = "../articles";

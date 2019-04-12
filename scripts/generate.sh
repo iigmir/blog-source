@@ -1,3 +1,4 @@
+# What does this script for:
 # Create empty markdown by shell scripts
 
 for i in {1..45}

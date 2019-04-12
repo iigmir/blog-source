@@ -1,3 +1,8 @@
+/**
+ * What does this script for:
+ * Write all contents in /info-files/contents.json
+ * to new Markdown files in /articles/*.md
+ */
 const ary = require("../info-files/contents.json");
 const fs = require("fs");
 
