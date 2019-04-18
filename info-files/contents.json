@@ -312,7 +312,7 @@
         "title": "Vue 響應式短文",
         "created_at": "2018-03-31T04:59:39Z",
         "updated_at": "2018-07-01T06:36:14Z",
-        "category_id": [3 , 7 , 8 ]
+        "category_id": [3 , 7 , 8]
     },
     {
         "id": 78,
@@ -375,6 +375,11 @@
         "title": "Group and sort for SVG elements",
         "created_at": "2018-07-01T06:13:10Z",
         "updated_at": "2018-07-01T06:13:10Z",
+        "category_id": [8]
+    },
+    {
+        "id": 90,
+        "title": "My New Blog",
         "category_id": [8]
     }
 ]
