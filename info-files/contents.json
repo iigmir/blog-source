@@ -137,21 +137,21 @@
         "title": "關於後端只傳 JSON，接著讓前端自己渲染的那些事",
         "created_at": "2018-01-03T08:05:20Z",
         "updated_at": "2018-03-12T05:07:31Z",
-        "category_id": [4, 3, 8, 14]
+        "category_id": [4,3,8,14]
     },
     {
         "id": 21,
         "title": "使用 Vue 完成 AJAX 的更新",
         "created_at": "2018-01-03T08:06:21Z",
         "updated_at": "2018-01-03T08:06:21Z",
-        "category_id": [4 , 3 , 7 , 8 ]
+        "category_id": [4,3,7,8]
     },
     {
         "id": 22,
         "title": "HTML templates at frontend",
         "created_at": "2018-01-03T08:07:06Z",
         "updated_at": "2018-01-03T08:07:06Z",
-        "category_id": [4 , 13 ]
+        "category_id": [4,13]
     },
     {
         "id": 23,
@@ -165,14 +165,14 @@
         "title": "Byebug：蟲蟲掰",
         "created_at": "2018-01-03T08:10:48Z",
         "updated_at": "2018-01-03T08:10:48Z",
-        "category_id": [4 , 6 , 9 ]
+        "category_id": [4,6,9]
     },
     {
         "id": 25,
         "title": "旭川の配線は、少しに無茶苦茶です。",
         "created_at": "2018-01-03T08:11:46Z",
         "updated_at": "2018-01-03T08:11:46Z",
-        "category_id": [4 , 6 , 16]
+        "category_id": [4,6,16]
     },
     {
         "id": 26,
@@ -214,7 +214,7 @@
         "title": "爬蟲程式 Takami 的感想文",
         "created_at": "2018-01-06T09:39:08Z",
         "updated_at": "2018-01-16T23:21:38Z",
-        "category_id": [3,13]
+        "category_id": [3,13,52]
     },
     {
         "id": 32,
@@ -256,21 +256,21 @@
         "title": "vue-cli 筆記",
         "created_at": "2018-02-02T05:27:04Z",
         "updated_at": "2018-03-02T02:48:54Z",
-        "category_id": []
+        "category_id": [7]
     },
     {
         "id": 38,
         "title": "2018\/02\/08 interview",
         "created_at": "2018-02-08T02:51:46Z",
         "updated_at": "2018-02-08T03:01:38Z",
-        "category_id": [3 , 7 , 8 , 13]
+        "category_id": [3,7,8,13]
     },
     {
         "id": 39,
         "title": "RSS feed",
         "created_at": "2018-02-08T08:36:44Z",
         "updated_at": "2018-02-08T08:37:13Z",
-        "category_id": [6, 15]
+        "category_id": [6,15]
     },
     {
         "id": 40,
@@ -312,7 +312,7 @@
         "title": "Vue 響應式短文",
         "created_at": "2018-03-31T04:59:39Z",
         "updated_at": "2018-07-01T06:36:14Z",
-        "category_id": [3 , 7 , 8]
+        "category_id": [3,7,8]
     },
     {
         "id": 78,
@@ -354,21 +354,21 @@
         "title": "在 Rails 使用 ES6",
         "created_at": "2018-05-16T05:46:17Z",
         "updated_at": "2018-05-16T05:46:38Z",
-        "category_id": [6 , 15]
+        "category_id": [6,15]
     },
     {
         "id": 85,
         "title": "vuex 的故事",
         "created_at": "2018-05-20T04:47:21Z",
         "updated_at": "2018-05-29T18:02:34Z",
-        "category_id": []
+        "category_id": [7,51]
     },
     {
         "id": 86,
         "title": "刪除文章失敗",
         "created_at": "2018-05-20T06:30:30Z",
         "updated_at": "2018-05-20T06:30:30Z",
-        "category_id": [3 , 7 , 8 , 14]
+        "category_id": [3,7,8,14]
     },
     {
         "id": 88,
@@ -390,6 +390,6 @@
     {
         "id": 92,
         "title": "爬蟲 API 感想文",
-        "category_id": [6, 52]
+        "category_id": [6,52]
     }
 ]
