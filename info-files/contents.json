@@ -444,7 +444,7 @@
     },
     {
         "id": 103,
-        "title": "這幾天玩 v-bind 的心得。",
+        "title": "v-bind notes",
         "category_id": [7,8]
     },
     {
@@ -454,7 +454,12 @@
     },
     {
         "id": 105,
-        "title": "如何在 v-html 寫 Vue 語法",
+        "title": "How to write Vue syntax in v-html",
         "category_id": [3, 7, 8]
+    },
+    {
+        "id": 106,
+        "title": "我搞砸了一次專案",
+        "category_id": [16, 51, 54]
     }
 ]
