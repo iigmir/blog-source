@@ -465,11 +465,16 @@
     {
         "id": 107,
         "title": "PHP 專案：Docker",
-        "category_id": [14, 15, 49, 50, 53]
+        "category_id": [14, 15, 49, 50, 53, 55]
     },
     {
         "id": 108,
         "title": "PHP 專案：PHP",
         "category_id": [14, 15, 50]
+    },
+    {
+        "id": 109,
+        "title": "Wordpress on the docker",
+        "category_id": [15, 49, 53, 55]
     }
 ]
