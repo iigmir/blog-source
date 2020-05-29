@@ -486,5 +486,10 @@
         "id": 111,
         "title": "A...Component?",
         "category_id": [7, 8, 10, 14, 51]
+    },
+    {
+        "id": 112,
+        "title": "讀讀 Vue 的原始碼：生命週期",
+        "category_id": [3, 7, 8, 14]
     }
 ]
