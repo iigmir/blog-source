@@ -491,5 +491,10 @@
         "id": 112,
         "title": "讀讀 Vue 的原始碼：生命週期",
         "category_id": [3, 7, 8, 14]
+    },
+    {
+        "id": 113,
+        "title": "讀讀 Vue 的原始碼：Virtual DOM",
+        "category_id": [3, 7, 8, 14]
     }
 ]
