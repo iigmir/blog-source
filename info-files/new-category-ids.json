@@ -510,11 +510,11 @@
     {
         "id": 81,
         "title": "GARbro：反編譯的奇妙冒險",
-        "category_id": [3, 4, 9, 14, 53, 57]
+        "category_id": [3, 9, 14, 53, 57]
     },
     {
         "id": 82,
         "title": "BootstrapVue： What if I want to refactor scoped field slots in tables?",
-        "category_id": [3, 4, 9, 14, 53, 57]
+        "category_id": [3, 7, 8]
     }
 ]
