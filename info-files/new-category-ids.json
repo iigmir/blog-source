@@ -186,7 +186,7 @@
         "title": "Docker-compose in \/usr\/bin",
         "created_at": "2018-01-03T08:15:04Z",
         "updated_at": "2018-01-03T08:15:04Z",
-        "category_id": [4]
+        "category_id": [4,50]
     },
     {
         "id": 28,
@@ -256,7 +256,7 @@
         "title": "vue-cli 筆記",
         "created_at": "2018-02-02T05:27:04Z",
         "updated_at": "2018-03-02T02:48:54Z",
-        "category_id": [7]
+        "category_id": [7,49]
     },
     {
         "id": 38,
@@ -333,7 +333,7 @@
         "title": "nginx worker_connections are not enough",
         "created_at": "2018-05-04T23:34:57Z",
         "updated_at": "2018-05-04T23:45:49Z",
-        "category_id": [50]
+        "category_id": [50,58]
     },
     {
         "id": 49,
@@ -485,12 +485,12 @@
     {
         "id": 76,
         "title": "讀讀 Vue 的原始碼：生命週期",
-        "category_id": [3, 7, 8, 14]
+        "category_id": [3, 7, 8, 14, 59]
     },
     {
         "id": 77,
         "title": "讀讀 Vue 的原始碼：Virtual DOM",
-        "category_id": [3, 7, 8, 14]
+        "category_id": [3, 7, 8, 14, 59]
     },
     {
         "id": 78,
@@ -505,16 +505,26 @@
     {
         "id": 80,
         "title": "Electron Vue：被玩",
-        "category_id": [3, 4, 7, 8, 49, 57]
+        "category_id": [3, 4, 7, 8, 49, 57, 59]
     },
     {
         "id": 81,
         "title": "GARbro：反編譯的奇妙冒險",
-        "category_id": [3, 9, 14, 53, 57]
+        "category_id": [3, 9, 14, 53, 57, 59]
     },
     {
         "id": 82,
         "title": "BootstrapVue： What if I want to refactor scoped field slots in tables?",
         "category_id": [3, 7, 8]
+    },
+    {
+        "id": 83,
+        "title": "Arch Linux installation note",
+        "category_id": [49, 53, 58]
+    },
+    {
+        "id": 84,
+        "title": "Bypassing Java on jpexs-decompiler",
+        "category_id": [59]
     }
 ]
