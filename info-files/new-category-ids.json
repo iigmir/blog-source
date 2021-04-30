@@ -539,7 +539,7 @@
     },
     {
         "id": 87,
-        "title": "北七，Vue 不會看 DOM 屬性啦！",
+        "title": "MutationObserver & Vue part 1",
         "category_id": [3,7,8]
     }
 ]
