@@ -539,7 +539,7 @@
     },
     {
         "id": 87,
-        "title": "MutationObserver & Vue part 1",
+        "title": "如何在 Vue 觀察 DOM： MutationObserver",
         "category_id": [3,7,8]
     }
 ]
