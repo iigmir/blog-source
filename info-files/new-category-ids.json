@@ -155,7 +155,7 @@
     },
     {
         "id": 23,
-        "title": "Oh, SM.",
+        "title": "Oh,SM.",
         "created_at": "2018-01-03T08:08:38Z",
         "updated_at": "2018-01-03T08:08:38Z",
         "category_id": [4]
@@ -291,14 +291,14 @@
         "title": "2018\/03\/12 面試題目",
         "created_at": "2018-03-12T04:33:09Z",
         "updated_at": "2018-03-31T05:44:02Z",
-        "category_id": [8 , 10 , 11]
+        "category_id": [8 ,10 ,11]
     },
     {
         "id": 43,
         "title": "關於後端的 Helper",
         "created_at": "2018-03-17T06:27:13Z",
         "updated_at": "2018-03-17T06:27:13Z",
-        "category_id": [15 , 51]
+        "category_id": [15 ,51]
     },
     {
         "id": 44,
@@ -395,7 +395,7 @@
     {
         "id": 58,
         "title": "Bulid Vue project from start",
-        "category_id": [3, 7, 8, 13, 14]
+        "category_id": [3,7,8,13,14]
     },
     {
         "id": 59,
@@ -405,27 +405,27 @@
     {
         "id": 60,
         "title": "React 初探",
-        "category_id": [3, 8]
+        "category_id": [3,8]
     },
     {
         "id": 61,
         "title": "我怎麼弄都不一樣的 position",
-        "category_id": [8, 16]
+        "category_id": [8,16]
     },
     {
         "id": 62,
         "title": "如何自訂 CSS 清單樣式",
-        "category_id": [8, 16]
+        "category_id": [8,16]
     },
     {
         "id": 63,
         "title": "Vuing order",
-        "category_id": [3, 7, 8, 51]
+        "category_id": [3,7,8,51]
     },
     {
         "id": 64,
         "title": "RWD & AWD",
-        "category_id": [8, 14, 51]
+        "category_id": [8,14,51]
     },
     {
         "id": 65,
@@ -450,77 +450,77 @@
     {
         "id": 69,
         "title": "How to write Vue syntax in v-html",
-        "category_id": [3, 7, 8]
+        "category_id": [3,7,8]
     },
     {
         "id": 70,
         "title": "我搞砸了一次專案",
-        "category_id": [16, 51, 54]
+        "category_id": [16,51,54]
     },
     {
         "id": 71,
         "title": "PHP 專案：Docker",
-        "category_id": [14, 15, 49, 50, 53, 55, 56]
+        "category_id": [14,15,49,50,53,55,56]
     },
     {
         "id": 72,
         "title": "PHP 專案：PHP",
-        "category_id": [14, 15, 50, 56]
+        "category_id": [14,15,50,56]
     },
     {
         "id": 73,
         "title": "Wordpress on the docker",
-        "category_id": [15, 49, 53, 55, 56]
+        "category_id": [15,49,53,55,56]
     },
     {
         "id": 74,
         "title": "Wordpress 隨筆",
-        "category_id": [15, 55, 56]
+        "category_id": [15,55,56]
     },
     {
         "id": 75,
         "title": "A...Component?",
-        "category_id": [7, 8, 10, 14, 51]
+        "category_id": [7,8,10,14,51]
     },
     {
         "id": 76,
         "title": "讀讀 Vue 的原始碼：生命週期",
-        "category_id": [3, 7, 8, 14, 59]
+        "category_id": [3,7,8,14,59]
     },
     {
         "id": 77,
         "title": "讀讀 Vue 的原始碼：Virtual DOM",
-        "category_id": [3, 7, 8, 14, 59]
+        "category_id": [3,7,8,14,59]
     },
     {
         "id": 78,
         "title": "嘗試靜態文章生產器",
-        "category_id": [8, 13, 15]
+        "category_id": [8,13,15]
     },
     {
         "id": 79,
         "title": "嘗試靜態文章生產器 Part 2",
-        "category_id": [8, 13, 15, 53]
+        "category_id": [8,13,15,53]
     },
     {
         "id": 80,
         "title": "Electron Vue：被玩",
-        "category_id": [3, 4, 7, 8, 49, 57, 59]
+        "category_id": [3,4,7,8,49,57,59]
     },
     {
         "id": 81,
         "title": "GARbro：反編譯的奇妙冒險",
-        "category_id": [3, 9, 14, 53, 57, 59]
+        "category_id": [3,9,14,53,57,59]
     },
     {
         "id": 82,
         "title": "BootstrapVue： What if I want to refactor scoped field slots in tables?",
-        "category_id": [3, 7, 8]
+        "category_id": [3,7,8]
     },
     {
         "id": 83,
         "title": "Arch Linux installation note",
-        "category_id": [49, 53, 58]
+        "category_id": [49,53,58]
     },
     {
         "id": 84,
