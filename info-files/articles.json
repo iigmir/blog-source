@@ -4,336 +4,384 @@
         "title": "Hello World",
         "created_at": "2017-12-19T10:45:49Z",
         "updated_at": "2017-12-19T10:45:49Z",
-        "category_id": [54]
+        "category_id": [54],
+        "language": "en-GB"
     },
     {
         "id": 2,
         "title": "大災難：資料庫的關聯重整",
         "created_at": "2017-12-19T11:04:33Z",
         "updated_at": "2017-12-19T11:21:53Z",
-        "category_id": [2]
+        "category_id": [2],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 3,
         "title": "Callback Hell：一點迷宮",
         "created_at": "2017-12-26T02:53:09Z",
         "updated_at": "2017-12-26T03:57:28Z",
-        "category_id": [3]
+        "category_id": [3],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 4,
         "title": "初見鐵路",
         "created_at": "2017-12-30T09:48:04Z",
         "updated_at": "2017-12-30T09:48:04Z",
-        "category_id": [4,6]
+        "category_id": [4,6],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 5,
         "title": " devise 初探",
         "created_at": "2017-12-30T09:50:31Z",
         "updated_at": "2017-12-30T09:50:31Z",
-        "category_id": [4,6]
+        "category_id": [4,6],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 6,
         "title": "Update controller",
         "created_at": "2017-12-30T09:58:09Z",
         "updated_at": "2017-12-30T09:58:09Z",
-        "category_id": [4,6,15]
+        "category_id": [4,6,15],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 7,
         "title": "會自己送出去的按鈕",
         "created_at": "2017-12-30T10:03:15Z",
         "updated_at": "2017-12-30T10:03:15Z",
-        "category_id": [4]
+        "category_id": [4],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 8,
         "title": "用 Disqus 給點意見",
         "created_at": "2017-12-30T10:09:48Z",
         "updated_at": "2017-12-30T10:12:29Z",
-        "category_id": [3,4,8]
+        "category_id": [3,4,8],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 9,
         "title": "神戶的管路",
         "created_at": "2017-12-30T10:17:55Z",
         "updated_at": "2017-12-30T10:17:55Z",
-        "category_id": [4,6,16]
+        "category_id": [4,6,16],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 10,
         "title": "Form refreshed after AJAX",
         "created_at": "2018-01-03T05:36:59Z",
         "updated_at": "2018-01-03T05:37:09Z",
-        "category_id": [4,6,15]
+        "category_id": [4,6,15],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 11,
         "title": "vim 隨筆",
         "created_at": "2018-01-03T07:44:59Z",
         "updated_at": "2018-01-03T07:45:13Z",
-        "category_id": [4]
+        "category_id": [4],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 12,
         "title": "ckeditor without precompiled",
         "created_at": "2018-01-03T07:46:13Z",
         "updated_at": "2018-01-03T07:48:15Z",
-        "category_id": [4,6]
+        "category_id": [4,6],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 13,
         "title": "Vue 隨筆",
         "created_at": "2018-01-03T07:50:28Z",
         "updated_at": "2018-01-03T07:58:34Z",
-        "category_id": [3,4,7]
+        "category_id": [3,4,7],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 14,
         "title": "GOTO MVC! GOTO MVC!",
         "created_at": "2018-01-03T07:51:12Z",
         "updated_at": "2018-03-12T04:47:01Z",
-        "category_id": [4,14]
+        "category_id": [4,14],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 15,
         "title": "font-awesome on rails",
         "created_at": "2018-01-03T07:51:57Z",
         "updated_at": "2018-01-03T07:51:57Z",
-        "category_id": [4,6,8,15]
+        "category_id": [4,6,8,15],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 16,
         "title": "我透過自學成了前端工程師",
         "created_at": "2018-01-03T07:54:21Z",
         "updated_at": "2018-01-03T07:54:21Z",
-        "category_id": [4,10]
+        "category_id": [4,10],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 17,
         "title": "npm 的筆記",
         "created_at": "2018-01-03T08:02:16Z",
         "updated_at": "2018-01-03T08:02:16Z",
-        "category_id": [3,4,13]
+        "category_id": [3,4,13],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 18,
         "title": "極快速使用 Carrierwave 在 rails 上傳圖片",
         "created_at": "2018-01-03T08:03:53Z",
         "updated_at": "2018-01-03T08:03:53Z",
-        "category_id": [4,6]
+        "category_id": [4,6],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 19,
         "title": "Telegram Bot: From start to abandon",
         "created_at": "2018-01-03T08:04:32Z",
         "updated_at": "2018-01-03T08:04:32Z",
-        "category_id": [3,4]
+        "category_id": [3,4],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 20,
         "title": "關於後端只傳 JSON，接著讓前端自己渲染的那些事",
         "created_at": "2018-01-03T08:05:20Z",
         "updated_at": "2018-03-12T05:07:31Z",
-        "category_id": [4,3,8,14]
+        "category_id": [4,3,8,14],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 21,
         "title": "使用 Vue 完成 AJAX 的更新",
         "created_at": "2018-01-03T08:06:21Z",
         "updated_at": "2018-01-03T08:06:21Z",
-        "category_id": [4,3,7,8]
+        "category_id": [4,3,7,8],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 22,
         "title": "HTML templates at frontend",
         "created_at": "2018-01-03T08:07:06Z",
         "updated_at": "2018-01-03T08:07:06Z",
-        "category_id": [4,13]
+        "category_id": [4,13],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 23,
         "title": "Oh,SM.",
         "created_at": "2018-01-03T08:08:38Z",
         "updated_at": "2018-01-03T08:08:38Z",
-        "category_id": [4]
+        "category_id": [4],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 24,
         "title": "Byebug：蟲蟲掰",
         "created_at": "2018-01-03T08:10:48Z",
         "updated_at": "2018-01-03T08:10:48Z",
-        "category_id": [4,6,9]
+        "category_id": [4,6,9],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 25,
         "title": "旭川の配線は、少しに無茶苦茶です。",
         "created_at": "2018-01-03T08:11:46Z",
         "updated_at": "2018-01-03T08:11:46Z",
-        "category_id": [4,6,16]
+        "category_id": [4,6,16],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 26,
         "title": "Do a custom view helper",
         "created_at": "2018-01-03T08:12:35Z",
         "updated_at": "2018-01-03T08:12:35Z",
-        "category_id": [4,6]
+        "category_id": [4,6],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 27,
         "title": "Docker-compose in \/usr\/bin",
         "created_at": "2018-01-03T08:15:04Z",
         "updated_at": "2018-01-03T08:15:04Z",
-        "category_id": [4,50]
+        "category_id": [4,50],
+        "language": "en-GB"
     },
     {
         "id": 28,
         "title": "Some emotions",
         "created_at": "2018-01-03T08:15:51Z",
         "updated_at": "2018-01-03T08:15:51Z",
-        "category_id": [4]
+        "category_id": [4],
+        "language": "en-GB"
     },
     {
         "id": 29,
         "title": "About some weird Convention",
         "created_at": "2018-01-03T08:16:35Z",
         "updated_at": "2018-01-03T08:16:35Z",
-        "category_id": [4]
+        "category_id": [4],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 30,
         "title": "如果 rails 開發環境要用其他資料庫的話",
         "created_at": "2018-01-03T08:17:06Z",
         "updated_at": "2018-01-03T08:17:06Z",
-        "category_id": [2,4,6]
+        "category_id": [2,4,6],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 31,
         "title": "爬蟲程式 Takami 的感想文",
         "created_at": "2018-01-06T09:39:08Z",
         "updated_at": "2018-01-16T23:21:38Z",
-        "category_id": [3,13,52]
+        "category_id": [3,13,52],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 32,
         "title": "vscode 牌殺蟲器",
         "created_at": "2018-01-06T10:52:51Z",
         "updated_at": "2018-01-06T11:04:30Z",
-        "category_id": [3,9]
+        "category_id": [3,9],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 33,
         "title": "2018\/01\/12 面試題目",
         "created_at": "2018-01-16T05:52:12Z",
         "updated_at": "2018-05-16T07:14:32Z",
-        "category_id": [3,10]
+        "category_id": [3,10],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 34,
         "title": " 2018\/01\/15 面試題目",
         "created_at": "2018-01-16T06:01:56Z",
         "updated_at": "2018-05-16T07:20:13Z",
-        "category_id": [3,10]
+        "category_id": [3,10],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 35,
         "title": "CORS 筆記",
         "created_at": "2018-01-23T10:12:26Z",
         "updated_at": "2018-01-23T11:08:29Z",
-        "category_id": [11]
+        "category_id": [11],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 36,
         "title": "Firefox 匯入\/匯出搜尋引擎套件",
         "created_at": "2018-02-02T05:15:13Z",
         "updated_at": "2018-02-02T05:15:13Z",
-        "category_id": [12]
+        "category_id": [12],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 37,
         "title": "vue-cli 筆記",
         "created_at": "2018-02-02T05:27:04Z",
         "updated_at": "2018-03-02T02:48:54Z",
-        "category_id": [7,49]
+        "category_id": [7,49],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 38,
         "title": "2018\/02\/08 interview",
         "created_at": "2018-02-08T02:51:46Z",
         "updated_at": "2018-02-08T03:01:38Z",
-        "category_id": [3,7,8,13]
+        "category_id": [3,7,8,13],
+        "language": "en-GB"
     },
     {
         "id": 39,
         "title": "RSS feed",
         "created_at": "2018-02-08T08:36:44Z",
         "updated_at": "2018-02-08T08:37:13Z",
-        "category_id": [6,15]
+        "category_id": [6,15],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 40,
         "title": "ES6 note",
         "created_at": "2018-02-24T08:03:56Z",
         "updated_at": "2018-04-29T08:17:40Z",
-        "category_id": [3,8]
+        "category_id": [3,8],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 41,
         "title": "this is sparta",
         "created_at": "2018-02-25T02:45:10Z",
         "updated_at": "2018-02-25T02:47:44Z",
-        "category_id": [3]
+        "category_id": [3],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 42,
         "title": "2018\/03\/12 面試題目",
         "created_at": "2018-03-12T04:33:09Z",
         "updated_at": "2018-03-31T05:44:02Z",
-        "category_id": [8 ,10 ,11]
+        "category_id": [8 ,10 ,11],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 43,
         "title": "關於後端的 Helper",
         "created_at": "2018-03-17T06:27:13Z",
         "updated_at": "2018-03-17T06:27:13Z",
-        "category_id": [15 ,51]
+        "category_id": [15 ,51],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 44,
         "title": "Flexbox ❤️ CSS Grid",
         "created_at": "2018-03-30T08:13:39Z",
         "updated_at": "2018-03-30T08:16:27Z",
-        "category_id": [8,16]
+        "category_id": [8,16],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 45,
         "title": "Vue 響應式短文",
         "created_at": "2018-03-31T04:59:39Z",
         "updated_at": "2018-07-01T06:36:14Z",
-        "category_id": [3,7,8]
+        "category_id": [3,7,8],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 46,
-        "title": "在 Ｍac 安裝 PHP 套件",
+        "title": "在 Mac 安裝 PHP 套件",
         "created_at": "2018-04-28T23:28:09Z",
         "updated_at": "2018-04-29T05:47:25Z",
-        "category_id": [49]
+        "category_id": [49],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 47,
         "title": "寫點測試",
         "created_at": "2018-04-30T11:37:10Z",
         "updated_at": "2018-04-30T11:57:33Z",
-        "category_id": [14,51]
+        "category_id": [14,51],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 48,
         "title": "nginx worker_connections are not enough",
         "created_at": "2018-05-04T23:34:57Z",
         "updated_at": "2018-05-04T23:45:49Z",
-        "category_id": [50,58]
+        "category_id": [50,58],
+        "language": "en-GB"
     },
     {
         "id": 49,
@@ -375,206 +423,247 @@
         "title": "Group and sort for SVG elements",
         "created_at": "2018-07-01T06:13:10Z",
         "updated_at": "2018-07-01T06:13:10Z",
-        "category_id": [8]
+        "category_id": [8],
+        "language": "en-GB"
     },
     {
         "id": 55,
         "title": "My New Blog",
-        "category_id": [8]
+        "category_id": [8],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 56,
         "title": "SQL",
-        "category_id": [2]
+        "category_id": [2],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 57,
         "title": "爬蟲 API 感想文",
-        "category_id": [6,52]
+        "category_id": [6,52],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 58,
         "title": "Bulid Vue project from start",
-        "category_id": [3,7,8,13,14]
+        "category_id": [3,7,8,13,14],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 59,
         "title": "Not in mood",
-        "category_id": [8]
+        "category_id": [8],
+        "language": "en-GB"
     },
     {
         "id": 60,
         "title": "React 初探",
-        "category_id": [3,8]
+        "category_id": [3,8],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 61,
         "title": "我怎麼弄都不一樣的 position",
-        "category_id": [8,16]
+        "category_id": [8,16],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 62,
         "title": "如何自訂 CSS 清單樣式",
-        "category_id": [8,16]
+        "category_id": [8,16],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 63,
         "title": "Vuing order",
-        "category_id": [3,7,8,51]
+        "category_id": [3,7,8,51],
+        "language": "en-GB"
     },
     {
         "id": 64,
         "title": "RWD & AWD",
-        "category_id": [8,14,51]
+        "category_id": [8,14,51],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 65,
         "title": "Androidx86 cannot startup",
-        "category_id": [53]
+        "category_id": [53],
+        "language": "en-GB"
     },
     {
         "id": 66,
         "title": "翻譯：如果有亞斯，如何描寫「用演的，不要用說的」？",
-        "category_id": [54]
+        "category_id": [54],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 67,
         "title": "v-bind notes",
-        "category_id": [7,8]
+        "category_id": [7,8],
+        "language": "en-GB"
     },
     {
         "id": 68,
         "title": "As an interviewer",
-        "category_id": [10]
+        "category_id": [10],
+        "language": "en-GB"
     },
     {
         "id": 69,
         "title": "How to write Vue syntax in v-html",
-        "category_id": [3,7,8]
+        "category_id": [3,7,8],
+        "language": "en-GB"
     },
     {
         "id": 70,
         "title": "我搞砸了一次專案",
-        "category_id": [16,51,54]
+        "category_id": [16,51,54],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 71,
         "title": "PHP 專案：Docker",
-        "category_id": [14,15,49,50,53,55,56]
+        "category_id": [14,15,49,50,53,55,56],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 72,
         "title": "PHP 專案：PHP",
-        "category_id": [14,15,50,56]
+        "category_id": [14,15,50,56],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 73,
         "title": "Wordpress on the docker",
-        "category_id": [15,49,53,55,56]
+        "category_id": [15,49,53,55,56],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 74,
         "title": "Wordpress 隨筆",
-        "category_id": [15,55,56]
+        "category_id": [15,55,56],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 75,
         "title": "A...Component?",
-        "category_id": [7,8,10,14,51]
+        "category_id": [7,8,10,14,51],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 76,
         "title": "讀讀 Vue 的原始碼：生命週期",
-        "category_id": [3,7,8,14,59]
+        "category_id": [3,7,8,14,59],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 77,
         "title": "讀讀 Vue 的原始碼：Virtual DOM",
-        "category_id": [3,7,8,14,59]
+        "category_id": [3,7,8,14,59],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 78,
         "title": "嘗試靜態文章生產器",
-        "category_id": [8,13,15]
+        "category_id": [8,13,15],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 79,
         "title": "嘗試靜態文章生產器 Part 2",
-        "category_id": [8,13,15,53]
+        "category_id": [8,13,15,53],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 80,
         "title": "Electron Vue：被玩",
-        "category_id": [3,4,7,8,49,57,59]
+        "category_id": [3,4,7,8,49,57,59],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 81,
         "title": "GARbro：反編譯的奇妙冒險",
-        "category_id": [3,9,14,53,57,59]
+        "category_id": [3,9,14,53,57,59],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 82,
-        "title": "BootstrapVue： What if I want to refactor scoped field slots in tables?",
-        "category_id": [3,7,8]
+        "title": "BootstrapVue: What if I want to refactor scoped field slots in tables?",
+        "category_id": [3,7,8],
+        "language": "en-GB"
     },
     {
         "id": 83,
         "title": "Arch Linux installation note",
-        "category_id": [49,53,58]
+        "category_id": [49,53,58],
+        "language": "en-GB"
     },
     {
         "id": 84,
         "title": "Bypassing Java on jpexs-decompiler",
-        "category_id": [59]
+        "category_id": [59],
+        "language": "en-GB"
     },
     {
         "id": 85,
         "title": "直接用字串渲染 DOM？",
-        "category_id": [3,8,13]
+        "category_id": [3,8,13],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 86,
         "title": "短文：前後端怎麼傳？",
-        "category_id": [8,11,14,15]
+        "category_id": [8,11,14,15],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 87,
         "title": "如何在 Vue 觀察 DOM： MutationObserver",
-        "category_id": [3,7,8]
+        "category_id": [3,7,8],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 88,
         "title": "我眼中的香港故事",
-        "category_id": [54]
+        "category_id": [54],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 89,
         "title": "How to 'decompile' an RPG Maker .exe file?",
-        "category_id": [53,59]
+        "category_id": [53,59],
+        "language": "en-GB"
     },
     {
         "id": 90,
         "title": "如何給 Vue 的單元測試填充模塊檔？",
-        "category_id": [3,7,5,49]
+        "category_id": [3,7,5,49],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 91,
         "title": "An interview form about Vue.JS",
-        "category_id": [7,8,10]
+        "category_id": [7,8,10],
+        "language": "en-GB"
     },
     {
         "id": 92,
         "title": "關於前端工程的難點",
-        "category_id": [3,8,13,14]
+        "category_id": [3,8,13,14],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 93,
         "title": "換D槽硬碟的筆記",
-        "category_id": [53]
+        "category_id": [53],
+        "language": "zh-Hant-TW"
     },
     {
         "id": 94,
         "title": "storage 變化監聽",
-        "category_id": [3, 7]
+        "category_id": [3, 7],
+        "language": "zh-Hant-TW"
     }
 ]
