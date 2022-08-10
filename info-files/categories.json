@@ -100,11 +100,15 @@
         "tag_name": "程式反查郵筒"
     },
     {
-        "id": 60,
-        "tag_name": "Twitter thread"
-    },
-    {
         "id": 61,
         "tag_name": "讀後感"
+    },
+    {
+        "id": 62,
+        "tag_name": "ACG"
+    },
+    {
+        "id": 63,
+        "tag_name": "政治與社會"
     }
 ]
