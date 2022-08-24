@@ -731,5 +731,11 @@
         "title": "智代 after 感想串",
         "category_id": [54, 61, 62],
         "language": "zh-Hant-TW"
+    },
+    {
+        "id": 106,
+        "title": "公司部落格快評",
+        "category_id": [53, 54, 63],
+        "language": "zh-Hant-TW"
     }
 ]
