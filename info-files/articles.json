@@ -716,13 +716,13 @@
     },
     {
         "id": 103,
-        "title": "CLANNAD 感想串",
+        "title": "CLANNAD 玩後感",
         "category_id": [54, 61, 62],
         "language": "zh-Hant-TW"
     },
     {
         "id": 104,
-        "title": "智代 after 感想串",
+        "title": "智代 after 玩後感",
         "category_id": [54, 61, 62],
         "language": "zh-Hant-TW"
     },
@@ -758,7 +758,7 @@
     },
     {
         "id": 110,
-        "title": "三色繪戀",
+        "title": "三色繪戀 玩後感",
         "category_id": [54, 61, 62],
         "language": "zh-Hant-TW"
     },
