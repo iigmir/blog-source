@@ -815,5 +815,11 @@
         "title": "COVID19: 新時代",
         "category_id": [54, 63],
         "language": "zh-Hant-TW"
+    },
+    {
+        "id": 120,
+        "title": "Barbenheimer",
+        "category_id": [54, 61],
+        "language": "zh-Hant-TW"
     }
 ]
