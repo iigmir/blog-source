@@ -12,7 +12,7 @@
         "title": "大災難：資料庫的關聯重整",
         "created_at": "2017-12-19T11:04:33Z",
         "updated_at": "2017-12-19T11:21:53Z",
-        "category_id": [2],
+        "category_id": [2,64],
         "language": "zh-Hant-TW"
     },
     {
@@ -36,7 +36,7 @@
         "title": " devise 初探",
         "created_at": "2017-12-30T09:50:31Z",
         "updated_at": "2017-12-30T09:50:31Z",
-        "category_id": [4,6],
+        "category_id": [4,6,64],
         "language": "zh-Hant-TW"
     },
     {
@@ -44,7 +44,7 @@
         "title": "Update controller",
         "created_at": "2017-12-30T09:58:09Z",
         "updated_at": "2017-12-30T09:58:09Z",
-        "category_id": [4,6,15],
+        "category_id": [4,6,15,64],
         "language": "zh-Hant-TW"
     },
     {
@@ -52,7 +52,7 @@
         "title": "會自己送出去的按鈕",
         "created_at": "2017-12-30T10:03:15Z",
         "updated_at": "2017-12-30T10:03:15Z",
-        "category_id": [4],
+        "category_id": [4,64],
         "language": "zh-Hant-TW"
     },
     {
@@ -60,7 +60,7 @@
         "title": "用 Disqus 給點意見",
         "created_at": "2017-12-30T10:09:48Z",
         "updated_at": "2017-12-30T10:12:29Z",
-        "category_id": [3,4,8],
+        "category_id": [3,4,8,64],
         "language": "zh-Hant-TW"
     },
     {
@@ -76,7 +76,7 @@
         "title": "Form refreshed after AJAX",
         "created_at": "2018-01-03T05:36:59Z",
         "updated_at": "2018-01-03T05:37:09Z",
-        "category_id": [4,6,15],
+        "category_id": [4,6,15,64],
         "language": "zh-Hant-TW"
     },
     {
@@ -92,7 +92,7 @@
         "title": "ckeditor without precompiled",
         "created_at": "2018-01-03T07:46:13Z",
         "updated_at": "2018-01-03T07:48:15Z",
-        "category_id": [4,6],
+        "category_id": [4,6,64],
         "language": "zh-Hant-TW"
     },
     {
@@ -164,7 +164,7 @@
         "title": "使用 Vue 完成 AJAX 的更新",
         "created_at": "2018-01-03T08:06:21Z",
         "updated_at": "2018-01-03T08:06:21Z",
-        "category_id": [4,3,7,8],
+        "category_id": [4,3,7,8,64],
         "language": "zh-Hant-TW"
     },
     {
@@ -204,7 +204,7 @@
         "title": "Do a custom view helper",
         "created_at": "2018-01-03T08:12:35Z",
         "updated_at": "2018-01-03T08:12:35Z",
-        "category_id": [4,6],
+        "category_id": [4,6,64],
         "language": "zh-Hant-TW"
     },
     {
@@ -308,7 +308,7 @@
         "title": "RSS feed",
         "created_at": "2018-02-08T08:36:44Z",
         "updated_at": "2018-02-08T08:37:13Z",
-        "category_id": [6,15],
+        "category_id": [6,15,64],
         "language": "zh-Hant-TW"
     },
     {
@@ -429,7 +429,7 @@
     {
         "id": 55,
         "title": "My New Blog",
-        "category_id": [8],
+        "category_id": [8,64],
         "language": "zh-Hant-TW"
     },
     {
@@ -525,13 +525,13 @@
     {
         "id": 71,
         "title": "PHP 專案：Docker",
-        "category_id": [14,15,49,50,53,55,56],
+        "category_id": [14,15,49,50,53,55,56,64],
         "language": "zh-Hant-TW"
     },
     {
         "id": 72,
         "title": "PHP 專案：PHP",
-        "category_id": [14,15,50,56],
+        "category_id": [14,15,50,56,64],
         "language": "zh-Hant-TW"
     },
     {
@@ -567,13 +567,13 @@
     {
         "id": 78,
         "title": "嘗試靜態文章生產器",
-        "category_id": [8,13,15],
+        "category_id": [8,13,15,64],
         "language": "zh-Hant-TW"
     },
     {
         "id": 79,
         "title": "嘗試靜態文章生產器 Part 2",
-        "category_id": [8,13,15,53],
+        "category_id": [8,13,15,53,64],
         "language": "zh-Hant-TW"
     },
     {
@@ -627,7 +627,7 @@
     {
         "id": 88,
         "title": "我眼中的香港故事",
-        "category_id": [54, 63],
+        "category_id": [54,63],
         "language": "zh-Hant-TW"
     },
     {
@@ -699,7 +699,7 @@
     {
         "id": 100,
         "title": "第 100 篇文章！",
-        "category_id": [54],
+        "category_id": [54,64],
         "language": "zh-Hant-TW"
     },
     {
@@ -843,7 +843,13 @@
     {
         "id": 124,
         "title": "Date and Temporal",
-        "category_id": [3, 8],
+        "category_id": [3, 8, 14],
+        "language": "en-GB"
+    },
+    {
+        "id": 125,
+        "title": "部落格更新！",
+        "category_id": [3, 8, 15, 16, 50, 55, 56, 61, 64],
         "language": "en-GB"
     }
 ]
