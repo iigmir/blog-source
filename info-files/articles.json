@@ -850,6 +850,12 @@
         "id": 125,
         "title": "部落格更新！",
         "category_id": [3, 8, 15, 16, 50, 55, 56, 61, 64],
-        "language": "en-GB"
+        "language": "zh-Hant-TW"
+    },
+    {
+        "id": 126,
+        "title": "My belief on AI generated content",
+        "category_id": [54, 61, 63],
+        "language": "zh-Hant-TW"
     }
 ]
