@@ -863,5 +863,11 @@
         "title": "小寄語",
         "category_id": [54],
         "language": "zh-Hant-TW"
+    },
+    {
+        "id": 128,
+        "title": "筆記： Bits",
+        "category_id": [3, 14, 53],
+        "language": "zh-Hant-TW"
     }
 ]
