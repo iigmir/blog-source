@@ -24,16 +24,19 @@ function get_source_file() {
 }
 
 function get_github_token() {
-    fs.readFile( ".env", "utf8", (error, content = "") => {
-        if (error) {
-            return "";
-        }
-        const match = content.match(/GITHUB_TOKEN=(.*)/);
-        if( !match ) {
-            throw new Error("NO TOKEN: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens");
-        }
-        return match ? match[1] : "";
+    return new Promise( (resolve, reject) => {
+        fs.readFile( ".env", "utf8", (error, content = "") => {
+            if (error) {
+                return "";
+            }
+            const match = content.match(/GITHUB_TOKEN=(.*)/);
+            if( !match ) {
+                reject("NO TOKEN: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens");
+            }
+            resolve(match ? match[1] : "");
+        });
     });
+    
 }
 
 function get_commits(id = 1) {
@@ -43,14 +46,16 @@ function get_commits(id = 1) {
     }
     return new Promise( (resolve, reject) => {
         const api = get_date_api(id);
-        const ajax = fetch(api, {
-            headers: {
-                "Authorization": `Bearer ${get_github_token()}`,
-                "X-GitHub-Api-Version": "2022-11-28",
-            },
-        }).then( (r) => r.json() );
-        ajax.then( (response) => {
-            resolve(response);
+        get_github_token().then( (srctoken) => {
+            const ajax = fetch(api, {
+                headers: {
+                    "Authorization": `Bearer ${srctoken}`,
+                    "X-GitHub-Api-Version": "2022-11-28",
+                },
+            }).then( (r) => r.json() );
+            ajax.then( (response) => {
+                resolve(response);
+            }).catch( e => reject(e) );
         }).catch( e => reject(e) );
     });  
 }
