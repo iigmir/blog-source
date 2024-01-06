@@ -43,6 +43,7 @@ function get_date(id = 1) {
         ajax.then( (response) => {
             // Error handling: Rate limit
             if( !Array.isArray(response) ) {
+                console.error(response);
                 reject({ [CREATED_AT]: "", [UPDATED_AT]: "", id, message: response.message });
                 return;
             }
