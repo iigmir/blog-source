@@ -107,14 +107,15 @@ function get_new_result() {
             result = contents;
             const requesting_dates = contents.filter( (item) => no_date(item) ).map( i => i.id );
             const remaining_dates = Promise.all( requesting_dates.map( id => get_date(id) ) );
-            remaining_dates.then( (list = []) => {
-                list.forEach( (item) => {
-                    const index = result.findIndex( (i) => i.id === item.id )
+            const fill_a_date = (list = []) => {
+                list.forEach((item) => {
+                    const index = result.findIndex((i) => i.id === item.id);
                     result[index][CREATED_AT] = item[CREATED_AT];
                     result[index][UPDATED_AT] = item[UPDATED_AT];
                 });
                 resolve(result);
-            }).catch( e => reject(e) );
+            };
+            remaining_dates.then( fill_a_date ).catch( e => reject(e) );
         }).catch( e => reject(e) );
     });
 }
