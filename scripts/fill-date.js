@@ -23,6 +23,19 @@ function get_source_file() {
     });
 }
 
+function get_github_token() {
+    fs.readFile( ".env", "utf8", (error, content = "") => {
+        if (error) {
+            return "";
+        }
+        const match = content.match(/GITHUB_TOKEN=(.*)/);
+        if( !match ) {
+            throw new Error("NO TOKEN: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens");
+        }
+        return match ? match[1] : "";
+    });
+}
+
 function get_commits(id = 1) {
     function get_date_api(id = 1) {
         const formatted_id = String(id).padStart(3, "0");
@@ -30,7 +43,12 @@ function get_commits(id = 1) {
     }
     return new Promise( (resolve, reject) => {
         const api = get_date_api(id);
-        const ajax = fetch(api).then( (r) => r.json() );
+        const ajax = fetch(api, {
+            headers: {
+                "Authorization": `Bearer ${get_github_token()}`,
+                "X-GitHub-Api-Version": "2022-11-28",
+            },
+        }).then( (r) => r.json() );
         ajax.then( (response) => {
             resolve(response);
         }).catch( e => reject(e) );
