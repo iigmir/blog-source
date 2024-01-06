@@ -41,6 +41,11 @@ function get_date(id = 1) {
     return new Promise( (resolve, reject) => {
         const ajax = get_commits(id);
         ajax.then( (response) => {
+            // Error handling: Rate limit
+            if( !Array.isArray(response) ) {
+                reject({ [CREATED_AT]: "", [UPDATED_AT]: "", id, message: response.message });
+                return;
+            }
             // Actions
             const get_commiter_date_string = (input) => {
                 try {
@@ -60,7 +65,9 @@ function get_date(id = 1) {
             result[UPDATED_AT] = get_commiter_date_string(commits[0]);
             result.id = id;
             resolve(result);
-        }).catch( e => reject({ [CREATED_AT]: "", [UPDATED_AT]: "", id }) );
+        }).catch( e => {
+            reject({ [CREATED_AT]: "", [UPDATED_AT]: "", id });
+        } );
     }); 
 }
 
