@@ -69,9 +69,9 @@ function no_date(item) {
 }
 
 function get_new_result() {
-    const src = get_source_file();
-    let result = [];
     return new Promise( (resolve, reject) => {
+        const src = get_source_file();
+        let result = [];
         src.then( (contents = []) => {
             result = contents;
             const requesting_dates = contents.filter( (item) => no_date(item) ).map( i => i.id );
@@ -84,7 +84,7 @@ function get_new_result() {
                 });
                 resolve(result);
             }).catch( e => reject(e) );
-        });
+        }).catch( e => reject(e) );
     });
 }
 
@@ -95,7 +95,7 @@ function main() {
                 throw up;
             }
         });
-    }).catch( up => {
+    }).catch( (up) => {
         throw up;
     });
 }
