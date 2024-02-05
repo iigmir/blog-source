@@ -1027,6 +1027,8 @@
         "id": 129,
         "title": "Docker: LAMP",
         "category_id": [15,49,50,55,56,58],
-        "language": "zh-Hant-TW"
+        "language": "zh-Hant-TW",
+        "created_at": "2024-01-31T05:34:26Z",
+        "updated_at": "2024-01-31T12:11:28Z"
     }
 ]
