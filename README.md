@@ -27,3 +27,7 @@ The core of my blog, with all of articles and its datas.
   * `categories.json`: Article categories.
 * `scripts`: Scripts to make things easier.
 * `source-dump`: Source datas(This is, my old articles) from my old blog.
+
+## See also
+
+* [do-markdownit plugins](https://github.com/digitalocean/do-markdownit#plugin-features--options): You don't need using annoying `iframe` anymore!
