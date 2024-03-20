@@ -1563,5 +1563,14 @@
         "language": "en-GB",
         "created_at": "2024-03-08T19:05:15Z",
         "updated_at": "2024-03-08T19:05:15Z"
+    },
+    {
+        "id": 133,
+        "title": "電腦會思考嗎？淺談電腦的心靈狀態",
+        "category_id": [
+            54,
+            63
+        ],
+        "language": "zh-Hant-TW"
     }
 ]
