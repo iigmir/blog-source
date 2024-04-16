@@ -28,6 +28,10 @@ The core of my blog, with all of articles and its datas.
 * `scripts`: Scripts to make things easier.
 * `source-dump`: Source datas(This is, my old articles) from my old blog.
 
+## Scripts
+
+* `node scripts/fill-date.js`: To fill dates by retirving Github API. **`GITHUB_TOKEN` is required**.
+
 ## See also
 
 * [do-markdownit plugins](https://github.com/digitalocean/do-markdownit#plugin-features--options): You don't need using annoying `iframe` anymore!
