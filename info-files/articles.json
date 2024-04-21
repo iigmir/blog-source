@@ -1595,7 +1595,7 @@
         ],
         "language": "zh-Hant-TW",
         "created_at": "2024-04-19T15:02:09Z",
-        "updated_at": "2024-04-19T15:02:09Z"
+        "updated_at": "2024-04-21T15:08:00Z"
     },
     {
         "id": 136,
@@ -1609,6 +1609,8 @@
             50,
             55
         ],
-        "language": "zh-Hant-TW"
+        "language": "zh-Hant-TW",
+        "created_at": "2024-04-21T15:08:00Z",
+        "updated_at": "2024-04-21T15:08:00Z"
     }
 ]
