@@ -1625,5 +1625,17 @@
             52
         ],
         "language": "zh-Hant-TW"
+    },
+    {
+        "id": 138,
+        "title": "AWS: EC2",
+        "category_id": [
+            15,
+            50,
+            53,
+            65,
+            66
+        ],
+        "language": "zh-Hant-TW"
     }
 ]

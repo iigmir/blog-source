@@ -114,5 +114,13 @@
     {
         "id": 64,
         "tag_name": "MY blog itself"
+    },
+    {
+        "id": 65,
+        "tag_name": "雲端"
+    },
+    {
+        "id": 66,
+        "tag_name": "AWS"
     }
 ]
