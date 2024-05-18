@@ -1628,11 +1628,25 @@
     },
     {
         "id": 138,
-        "title": "AWS: EC2",
+        "title": "AWS: EC2 part 2",
+        "category_id": [
+            14,
+            49,
+            50,
+            53,
+            65,
+            66
+        ],
+        "language": "zh-Hant-TW"
+    },
+    {
+        "id": 139,
+        "title": "AWS: EC2 part 2",
         "category_id": [
             15,
             50,
             53,
+            58,
             65,
             66
         ],
