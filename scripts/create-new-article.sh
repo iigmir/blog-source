@@ -19,7 +19,9 @@ else
 fi
 
 # Format the next number to be 3 digits (e.g., 001, 002, 003)
-next_file=$(printf "%03d.md" "$next_number")
+if [[ $next_number != "404" ]] then
+    next_file=$(printf "%03d.md" "$next_number")
+fi
 
 # Create the new file
 touch "$target_dir/$next_file"
