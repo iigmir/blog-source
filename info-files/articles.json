@@ -1720,7 +1720,9 @@
             65,
             66
         ],
-        "language": "zh-Hant-TW"
+        "language": "zh-Hant-TW",
+        "created_at": "2024-06-12T21:19:15Z",
+        "updated_at": "2024-06-12T21:19:15Z"
     },
     {
         "id": 145,
@@ -1733,6 +1735,8 @@
             65,
             66
         ],
-        "language": "zh-Hant-TW"
+        "language": "zh-Hant-TW",
+        "created_at": "2024-06-20T07:08:10Z",
+        "updated_at": "2024-06-20T07:23:56Z"
     }
 ]
