@@ -1,0 +1,91 @@
+This command processes a file called `data.txt` and extracts unique non-repeating alphanumeric words using a combination of `tr`, `sort`, and `uniq`. Let’s break it down step by step:
+
+### 1. `tr -c '[:alnum:]' '[\n*]'`
+The `tr` command is used to translate or delete characters. In this case, it does the following:
+
+- **`-c '[:alnum:]'`**: The `-c` option complements (inverts) the character set provided, which is `[:alnum:]`. The `[:alnum:]` is a POSIX character class that includes all alphanumeric characters (letters and digits). So, `-c '[:alnum:]'` means "match everything that is NOT an alphanumeric character."
+  
+- **`'[\n*]'`**: This translates all non-alphanumeric characters (matched by `-c '[:alnum:]'`) into a newline (`\n`). Essentially, this breaks up the text into individual "words" by treating any non-alphanumeric characters (spaces, punctuation, etc.) as word separators and replacing them with line breaks.
+
+   **Example**:
+   - Input: `"Hello, world!"`
+   - Output: 
+     ```
+     Hello
+     world
+     ```
+
+### 2. `| sort`
+The `|` (pipe) passes the output from `tr` into the `sort` command.
+
+- **`sort`**: This command sorts the words (now separated by newlines) in lexicographical (alphabetical) order. Sorting is important because it groups identical words together, making it easier to detect unique words in the next step.
+
+   **Example**:
+   - Input:
+     ```
+     Hello
+     world
+     Hello
+     ```
+   - Output:
+     ```
+     Hello
+     Hello
+     world
+     ```
+
+### 3. `| uniq -u`
+The `uniq` command is used to remove duplicate lines from sorted input. In this case:
+
+- **`uniq -u`**: The `-u` option tells `uniq` to only print unique lines, i.e., lines that occur exactly once. This will remove any words that appear more than once, leaving only non-repeated words.
+
+   **Example**:
+   - Input:
+     ```
+     Hello
+     Hello
+     world
+     ```
+   - Output:
+     ```
+     world
+     ```
+
+### Full Command Workflow:
+
+1. `tr -c '[:alnum:]' '[\n*]' < data.txt`: Converts non-alphanumeric characters into newlines, essentially breaking the text into individual words.
+2. `sort`: Sorts the words lexicographically.
+3. `uniq -u`: Outputs only the words that appear exactly once.
+
+### Example:
+
+Let's say the contents of `data.txt` are:
+```
+Hello, world! Hello again, world!
+```
+
+Step-by-step execution:
+1. After `tr -c '[:alnum:]' '[\n*]'`, the output is:
+   ```
+   Hello
+   world
+   Hello
+   again
+   world
+   ```
+
+2. After `sort`, the output is:
+   ```
+   Hello
+   Hello
+   again
+   world
+   world
+   ```
+
+3. After `uniq -u`, the output is:
+   ```
+   again
+   ```
+
+Thus, the command extracts the word "again" as the only unique word in the input.
