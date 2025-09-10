@@ -1,0 +1,102 @@
+# ChatGPT
+
+If 4x * 3x = 100000, how do I get the number, "x"?
+
+---
+
+To solve the equation \(4x \cdot 3x = 100000\), follow these steps:
+
+1. **Combine the terms**: 
+   \[
+   12x^2 = 100000
+   \]
+
+2. **Isolate \(x^2\)**:
+   \[
+   x^2 = \frac{100000}{12}
+   \]
+
+3. **Calculate \(x^2\)**:
+   \[
+   x^2 = 8333.33
+   \]
+
+4. **Take the square root of both sides**:
+   \[
+   x = \sqrt{8333.33} \approx 91.29
+   \]
+
+Thus, the value of \(x\) is approximately **91.29**.
+
+---
+
+Let's clarify the steps in a simpler way. The equation you provided is \(4x \cdot 3x = 100000\). 
+
+### Step-by-Step Breakdown
+
+1. **Combine the terms**: 
+   - When you multiply \(4x\) and \(3x\), you multiply the coefficients (4 and 3) and the variables (\(x\) and \(x\)):
+   \[
+   4x \cdot 3x = 12x^2
+   \]
+   This is why we have \(x^2\) (because \(x \cdot x = x^2\)).
+
+2. **Set up the equation**:
+   - Now, we have:
+   \[
+   12x^2 = 100000
+   \]
+
+3. **Isolate \(x^2\)**:
+   - To find \(x^2\), divide both sides by 12:
+   \[
+   x^2 = \frac{100000}{12} \approx 8333.33
+   \]
+
+4. **Find \(x\)**:
+   - To find \(x\), you take the square root of \(x^2\):
+   \[
+   x = \sqrt{8333.33} \approx 91.29
+   \]
+
+### Why Use Exponents and Roots?
+
+- The exponent \(2\) comes from multiplying the variable \(x\) by itself.
+- The square root is used to reverse the squaring process, allowing us to find the original value of \(x\).
+
+If you prefer to work with simpler equations or have specific methods you like, let me know! I can help explain or adjust the approach to fit your comfort level.
+
+---
+
+About the "reverse the squaring process", do you mean, assume that "3 * x^2 = 9":
+1. We know "x * x = x^2"
+2. We can do 9 / 3 = 3
+3. Now we need turn "x^2", which is "3" now, into "x"
+4. According to "x^2 = 3",which is "x = V3"
+5. "V3" is "1.732". Therefore, x = 1.732, right?
+
+---
+
+Yes, you've got the right idea! Let's break down your example step by step to confirm your understanding:
+
+1. **Start with the equation**: 
+   \[
+   3 \cdot x^2 = 9
+   \]
+
+2. **Isolate \(x^2\)**: 
+   - Divide both sides by 3:
+   \[
+   x^2 = \frac{9}{3} = 3
+   \]
+
+3. **Take the square root**: 
+   - To find \(x\), you take the square root of both sides:
+   \[
+   x = \sqrt{3}
+   \]
+
+4. **Calculate the square root**: 
+   - The approximate value of \(\sqrt{3}\) is about **1.732**.
+
+So, you correctly followed the steps to isolate \(x\) and find its value. Your understanding of reversing the squaring process is spot on! If you have any more questions or need further clarification, feel free to ask!
