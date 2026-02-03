@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1280"
+   height="720"
+   viewBox="0 0 338.66667 190.5"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="drawing-2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.4614334"
+     inkscape:cx="625.75552"
+     inkscape:cy="308.60114"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs1">
+    <rect
+       x="1074.2878"
+       y="323.65485"
+       width="87.585245"
+       height="28.054649"
+       id="rect7" />
+    <rect
+       x="869.69411"
+       y="494.03552"
+       width="205.27791"
+       height="43.792623"
+       id="rect6" />
+    <rect
+       x="869.69409"
+       y="494.03552"
+       width="119.06119"
+       height="39.687065"
+       id="rect6-9" />
+    <rect
+       x="869.69409"
+       y="494.03552"
+       width="143.01028"
+       height="70.478753"
+       id="rect6-8" />
+  </defs>
+  <g
+     inkscape:label="machine"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round"
+       id="rect1"
+       width="174.10345"
+       height="120.3362"
+       x="96.525002"
+       y="27.395689"
+       ry="5.0566812"
+       rx="0" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="Right Door">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.262488;stroke-linecap:round"
+         id="rect3-5"
+         width="50.151207"
+         height="119.73751"
+         x="270.66183"
+         y="35.131245"
+         ry="25.075603"
+         rx="0" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round"
+         id="rect4-3"
+         width="26.251339"
+         height="15.026628"
+         x="283.517"
+         y="62.135731"
+         ry="7.5133142"
+         rx="0" />
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round"
+         id="path4-5"
+         cx="291.93552"
+         cy="69.468002"
+         rx="3.5303524"
+         ry="3.7113962" />
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round"
+         id="path4-6-4"
+         cx="301.36542"
+         cy="69.164429"
+         rx="3.5303524"
+         ry="3.7113962" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,53.311856,-47.183036)"
+         id="text6-1"
+         style="font-size:24px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI';writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect6-8);display:inline;fill:none;stroke:#000000;stroke-linecap:round"
+         inkscape:label="label"><tspan
+           x="869.69336"
+           y="515.65326"
+           id="tspan2">測試按鈕
+</tspan><tspan
+           x="869.69336"
+           y="545.65326"
+           id="tspan3"> (TEST)</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="Left Door">
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round"
+         id="path4"
+         cx="67.257736"
+         cy="69.46801"
+         rx="3.5303524"
+         ry="3.7113962" />
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round"
+         id="path4-6"
+         cx="76.687645"
+         cy="69.164429"
+         rx="3.5303524"
+         ry="3.7113962" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.262488;stroke-linecap:round"
+         id="rect3"
+         width="50.151207"
+         height="119.73751"
+         x="45.984055"
+         y="35.131245"
+         ry="24.678041"
+         rx="0" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round"
+         id="rect4"
+         width="26.251339"
+         height="15.026628"
+         x="58.839211"
+         y="62.135731"
+         ry="7.5133142"
+         rx="0"
+         inkscape:label="rect4" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="Stack">
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round"
+         id="path1"
+         cx="185.35986"
+         cy="118.159"
+         rx="44.421982"
+         ry="8.3211203" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round"
+         id="rect2"
+         width="9.4732761"
+         height="47.366379"
+         x="156.81203"
+         y="70.208969"
+         ry="4.7366381"
+         rx="0" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round"
+         id="rect2-7"
+         width="9.4732761"
+         height="47.366379"
+         x="175.23441"
+         y="70.208969"
+         ry="4.7366381"
+         rx="0" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round"
+         id="rect2-8"
+         width="9.4732761"
+         height="47.366379"
+         x="192.98671"
+         y="70.208969"
+         ry="4.7366381"
+         rx="0" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-54.478978,-72.233793)"
+         id="text6-3"
+         style="font-size:24px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI';writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect6-9);display:inline;fill:none;stroke:#000000;stroke-linecap:round"
+         inkscape:label="label"><tspan
+           x="869.69336"
+           y="515.65326"
+           id="tspan4">卡盤</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer5"
+       inkscape:label="refill">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round"
+         id="rect5"
+         width="12.161637"
+         height="3.9685345"
+         x="179.5351"
+         y="120.4953"
+         ry="1.9842672"
+         rx="0" />
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round"
+         id="path5"
+         cx="183.53563"
+         cy="122.36755"
+         rx="0.96012932"
+         ry="0.91212285" />
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round"
+         id="path5-3"
+         cx="188.23317"
+         cy="122.37939"
+         rx="0.96012932"
+         ry="0.91212285" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-66.624088,0.90521859)"
+         id="text6"
+         style="font-size:24px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI';writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect6);display:inline;fill:none;stroke:#000000;stroke-linecap:round"
+         inkscape:label="label"><tspan
+           x="869.69336"
+           y="515.65326"
+           id="tspan5">補充按鈕 (REFILL)</tspan></text>
+    </g>
+  </g>
+</svg>
